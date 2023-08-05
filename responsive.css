@@ -1,0 +1,25 @@
+@media only screen and (min-width: 200px) and (max-width: 567px) {
+  
+    .container {
+        height: 100%;
+        /* width: 900px; */
+
+    }
+    .heading{
+        text-align: center;
+        font-size: 20px;
+    }
+    h2{
+        font-size: 18px;
+    }
+
+    .button {
+        padding: 20px;
+    }
+
+    .rows input {
+        width: 400px;
+        padding: 20px;
+    }
+    
+}
